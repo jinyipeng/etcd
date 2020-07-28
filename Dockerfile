@@ -1,1 +1,1 @@
-FROM gcr.io/etcd-development/etcd:v3.4.9
+FROM quay.io/coreos/etcd
